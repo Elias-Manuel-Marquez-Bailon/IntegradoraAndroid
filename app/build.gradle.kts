@@ -45,10 +45,9 @@ dependencies {
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.play.services.maps)
-<<<<<<< HEAD
-=======
+
     implementation(libs.firebase.auth.ktx)
->>>>>>> d3b27e812d129f78167a39f1863b4cf3350aa528
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
