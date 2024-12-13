@@ -12,6 +12,10 @@ firebaseDatabase = "21.0.0"
 activity = "1.9.3"
 constraintlayout = "2.2.0"
 playServicesMaps = "19.0.0"
+<<<<<<< HEAD
+=======
+firebaseAuthKtx = "23.1.0"
+>>>>>>> d3b27e812d129f78167a39f1863b4cf3350aa528
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -24,6 +28,10 @@ firebase-database = { group = "com.google.firebase", name = "firebase-database",
 androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
 play-services-maps = { group = "com.google.android.gms", name = "play-services-maps", version.ref = "playServicesMaps" }
+<<<<<<< HEAD
+=======
+firebase-auth-ktx = { group = "com.google.firebase", name = "firebase-auth-ktx", version.ref = "firebaseAuthKtx" }
+>>>>>>> d3b27e812d129f78167a39f1863b4cf3350aa528
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

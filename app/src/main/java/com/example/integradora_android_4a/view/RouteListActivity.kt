@@ -5,6 +5,7 @@ import android.widget.ArrayAdapter
 import android.widget.ListView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+<<<<<<< HEAD
 import com.example.integradora_android_4a.R
 import com.example.integradora_android_4a.model.Route
 import com.google.firebase.database.DataSnapshot
@@ -12,6 +13,11 @@ import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
+=======
+import com.example.myroute.R
+import com.example.myroute.model.Route
+import com.google.firebase.database.*
+>>>>>>> d3b27e812d129f78167a39f1863b4cf3350aa528
 
 class RouteListActivity : AppCompatActivity() {
 
@@ -53,4 +59,8 @@ class RouteListActivity : AppCompatActivity() {
             }
         })
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d3b27e812d129f78167a39f1863b4cf3350aa528
